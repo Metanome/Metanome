@@ -2,15 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer+and+Reverse+Engineer;Currently+pursuing+masters;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
 
-[![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=Metanome.Metanome&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Metanome)
 <a href="https://github.com/Metanome?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Metanome"/></a>
-  <a href="https://github.com/Metanome?tab=followers">
+<a href="https://github.com/Metanome?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Metanome?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-- 💻 CS student, a programmer & a reverse engineer.
+- 💻 Programmer & Reverse Engineer.
 
-- 🎓 I am currently pursuing masters in CS.
+- 🎓 I am currently pursuing masters.
 
 - ⚒ Working on to improve my problem solving skills!
 
