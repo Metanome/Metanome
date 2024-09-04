@@ -21,22 +21,19 @@
 
 📚 Learning...
 
-[![Python](https://img.shields.io/badge/-Python-4584B6?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/)
 [![Dart](https://img.shields.io/badge/-Dart-15A6C4?style=for-the-badge&logo=Dart&logoColor=FFFFFF)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF)](https://flutter.dev/)
 [![Delphi](https://img.shields.io/badge/-Object%20Pascal-F32735?style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.freepascal.org/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://html.com/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.w3schools.com/css/css_intro.asp)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
 📖 Learning from...
 
-[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 [![edX](https://img.shields.io/badge/-edX-00262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)](https://www.edx.org/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
-[![ACM](https://img.shields.io/badge/-ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)](https://www.acm.org/)
-[![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
+[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 
 👨‍💻 Using...
 
