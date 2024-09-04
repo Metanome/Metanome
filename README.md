@@ -1,6 +1,6 @@
 # Hi there!, I am Metanome 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=CS+Student%2C+a+programmer+%26+a+reverse+engineer;Currently+pursuing+masters+in+Computer+Science;Working+on+to+improve+my+problem+solving+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer+and+Reverse+Engineer;Currently+pursuing+masters;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
 
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=Metanome.Metanome&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Metanome)
 <a href="https://github.com/Metanome?tab=repositories&sort=stargazers">
@@ -53,7 +53,7 @@
 
 ## 📊 GitHub status
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Metanome&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Metanome&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Metanome&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metanome&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages&card_width=297)](https://github.com/anuraghazra/github-readme-stats)
 
