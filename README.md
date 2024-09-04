@@ -1,6 +1,6 @@
 # Hi there!, I am Metanome 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer+and+Reverse+Engineer;Currently+pursuing+masters;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;Currently+pursuing+masters;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
 
 <a href="https://github.com/Metanome?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Metanome"/></a>
