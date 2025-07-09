@@ -1,6 +1,6 @@
 # Hi there!, I am Metanome 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;Currently+pursuing+masters;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;Neuroscience;Working+on+my+problem+solving+skills)](https://git.io/typing-svg)
 
 <a href="https://github.com/Metanome?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Metanome"/></a>
@@ -9,7 +9,7 @@
 
 - 💻 Programmer
 
-- 🎓 Currently pursuing masters
+- 🎓 Neuroscience
 
 - ⚒ Working on to improve my problem solving skills
 
@@ -19,14 +19,15 @@
 
 ## 🌍🛠 Languages and Tools
 
-📚 Learning...
+📚 Learning & Applying...
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/)
 [![Dart](https://img.shields.io/badge/-Dart-15A6C4?style=for-the-badge&logo=Dart&logoColor=FFFFFF)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF)](https://flutter.dev/)
 [![Delphi](https://img.shields.io/badge/-Object%20Pascal-F32735?style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.freepascal.org/)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://html.com/)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.w3schools.com/css/css_intro.asp)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=FFFFFF)](https://www.w3schools.com/css/css_intro.asp)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
 📖 Learning from...
@@ -38,10 +39,7 @@
 👨‍💻 Using...
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-5EE078?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![RAD Studio Delphi](https://img.shields.io/badge/-RAD%20Studio%20Delphi-F32735?style=for-the-badge&logo=Embarcadero&logoColor=FFFFFF)](https://www.embarcadero.com/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6B33AE?style=for-the-badge&logo=VisualStudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/)
-[![WebStorm](https://img.shields.io/badge/-WebStorm-2196DD?style=for-the-badge&logo=WebStorm&logoColor=FFFFFF)](https://www.jetbrains.com/webstorm/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
